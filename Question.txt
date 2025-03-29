@@ -1,0 +1,11 @@
+What is the capital of France?
+a) Berlin
+b) Madrid
+c) Paris
+d) Rome
+
+Who developed Python?
+a) Dennis Ritchie
+b) Bjarne Stroustrup
+c) Guido van Rossum
+d) James Gosling

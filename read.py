@@ -1,0 +1,7 @@
+file1=open("file1.txt","r")
+print("first read:")
+print(file1.read())
+print("second read:")
+file1.seek(0)
+print(file1.read())
+file1.close()

@@ -1,3 +1,4 @@
+#Downloaded flag images avialable in that website in flag folder using this python program.
 import os
 import requests
 
@@ -29,3 +30,4 @@ for line in lines:
         img.write(r.content)
 
     print("Downloaded:", name)
+
